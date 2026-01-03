@@ -30,7 +30,7 @@ Les fichiers suivants ont été extraits du rapport principal pour faciliter la 
 
 - **`prompts.md`** : Un recueil exhaustif de tous les prompts (V1, V2, VFinal) pour chaque outil.
 - **`docs.md`** : La documentation technique approfondie expliquant les choix de conception et les stratégies de prompting.
-- **`analyse.md`** : Les analyses de sécurité détaillées (Injection de Prompt & Log Poisoning) et les mesures de protection implémentées.
+- **`analyses.md`** : Les analyses de sécurité détaillées (Injection de Prompt & Log Poisoning) et les mesures de protection implémentées.
 
 ## 🔍 Points Clés pour la Correction
 
